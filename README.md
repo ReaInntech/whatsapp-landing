@@ -2,6 +2,6 @@
 
 A minimalist landing page designed to optimize interaction with your Social Media.
 
-![gndx.github.io/medpet](https://s3.amazonaws.com/gndx.dev/medpet-base.png)
+![reainntech.github.io/RealInovation.tech](https://s3.amazonaws.com/gndx.dev/RealInovation.tech-base.png)
 
 A free Linktree alternative.
